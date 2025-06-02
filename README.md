@@ -1,4 +1,4 @@
-🛍️ Retail Analytics Power BI Project
+## 🛍️ Retail Analytics Power BI Project
 📌 Project Overview
 This project focuses on analyzing retail sales data for a leading retail chain in India, with the goal of deriving actionable insights to improve customer engagement, marketing strategies, and business performance. The analysis was conducted using Power BI, with a supporting data model built in SQL and Excel.
 
